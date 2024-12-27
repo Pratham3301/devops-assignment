@@ -1,0 +1,2 @@
+Change from branch1
+Conflicting change from branch2
